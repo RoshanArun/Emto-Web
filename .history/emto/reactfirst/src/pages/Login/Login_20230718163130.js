@@ -3,6 +3,7 @@ import truck from './truck.jpg';
 import emtocaption from './emto-caption.png';
 import React from 'react';
 
+import { Img01, Img02, Img03 } from '../assets/img'
 
 const Login = () => {
     return (

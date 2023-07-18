@@ -1,8 +1,8 @@
 import emtologo from './emto-logo.png';
 import truck from './truck.jpg';
-import emtocaption from './emto-caption.png';
 import React from 'react';
 
+import { Img01, Img02, emtocaption } from '../assets/img'
 
 const Login = () => {
     return (

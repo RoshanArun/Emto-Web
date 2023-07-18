@@ -63,6 +63,8 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
+
+
 .bottom {
   height: 5%;
   margin-top: 1.5%;
@@ -89,6 +91,59 @@ input::-webkit-inner-spin-button {
   height: 10px;
   width: 10px;
 }
+
+
+
+
+@media (max-width: 600px) {
+  .wrapper {
+    flex-wrap: wrap;
+  }
+
+  div {
+    flex-basis: 33%;
+  }
+
+  .page-left {
+    width: 100%;
+    min-width: 100%;
+    height: 100%;
+    background-color: #f5f5f5;
+  }
+
+  .box {
+    width: 85%;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+  }
+
+  .page-right {
+    width: 100%;
+    min-width: 100%;
+    height: 150vw;
+    background-color: #f5f5f5;
+  }
+  
+  .signin-content {
+    height: 85%;
+    width: 240px;
+    padding-top: 25vh;
+    text-align: center;
+ 
+  }
+}
+
+
+
+
+
+
+
 
 
 .signup-content {
@@ -193,48 +248,4 @@ input::-webkit-inner-spin-button {
   float: left;
   margin-left: 80px;
   color: red;
-}
-
-
-@media (max-width: 600px) {
-  .wrapper {
-    flex-wrap: wrap;
-  }
-
-  div {
-    flex-basis: 33%;
-  }
-
-  .page-left {
-    width: 100%;
-    min-width: 100%;
-    height: 100%;
-    background-color: #f5f5f5;
-  }
-
-  .box {
-    width: 85%;
-    background-color: white;
-    border-radius: 25px;
-    margin-left: 5%;
-    padding-left: 5%;
-    padding-top: 2%;
-    padding-bottom: 5%;
-    margin-bottom: 5%;
-  }
-
-  .page-right {
-    width: 100%;
-    min-width: 100%;
-    height: 150vw;
-    background-color: #f5f5f5;
-  }
-
-  .signin-content {
-    height: 85%;
-    width: 240px;
-    padding-top: 25vh;
-    text-align: center;
-
-  }
 }

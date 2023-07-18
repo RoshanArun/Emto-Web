@@ -1,8 +1,20 @@
 import emtologo from './emto-logo.png';
 import truck from './truck.jpg';
-import emtocaption from './emto-caption.png';
+//import emtocaption from './emto-caption.png';
 import React from 'react';
 
+const path = require('path');
+
+module.exports = {
+    resolve: {
+      extensions: ['js', 'ts'],
+      alias: {
+        '@assets': path.resolve(__dirname, 'src/assets/'),
+      },
+    },
+  }
+  
+  import emtocaption from 'assets/emto-caption.png'
 
 const Login = () => {
     return (

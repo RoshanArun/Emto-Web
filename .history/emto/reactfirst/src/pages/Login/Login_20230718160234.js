@@ -1,8 +1,7 @@
-import emtologo from './emto-logo.png';
+import emtologo from './emtologo';
 import truck from './truck.jpg';
 import emtocaption from './emto-caption.png';
 import React from 'react';
-
 
 const Login = () => {
     return (

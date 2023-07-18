@@ -2,6 +2,7 @@ import emtologo from './emto-logo.png';
 import truck from './truck.jpg';
 import emtocaption from './emto-caption.png';
 import React from 'react';
+import images from './Assets';
 
 
 const Login = () => {

@@ -1,8 +1,19 @@
 import emtologo from './emto-logo.png';
 import truck from './truck.jpg';
-import emtocaption from './emto-caption.png';
+//import emtocaption from './emto-caption.png';
 import React from 'react';
-
+import emtocaption from './@assets/emto-caption.png'
+module.exports = {
+    resolve: {
+      extensions: ['js', 'ts'],
+      alias: {
+        '@': path.resolve(__dirname, 'src'),
+        '@assets': path.resolve(__dirname, 'src/assets'),
+        '@components': path.resolve(__dirname, 'src/components'),
+        // ...etc
+      },
+    },
+  }
 
 const Login = () => {
     return (

@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import emto from './emto-caption.png';
 
+export const emto_ = emto;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

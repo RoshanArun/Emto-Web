@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+export { default as Img01 } from './emto-caption.png'
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

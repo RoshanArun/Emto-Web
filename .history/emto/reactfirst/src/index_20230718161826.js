@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import emtocaption from './src/Assets/emto-caption.png'
 
+export {default as emtocaption} from './src/Assets/emto-caption.png';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

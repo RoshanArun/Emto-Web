@@ -3,7 +3,6 @@ import truck from './truck.jpg';
 import emtocaption from './emto-caption.png';
 import React from 'react';
 
-
 const Login = () => {
     return (
         <div class="login">

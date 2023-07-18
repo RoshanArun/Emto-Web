@@ -1,6 +1,6 @@
 import emtologo from './emto-logo.png';
 import truck from './truck.jpg';
-import emtocaption from './emto-caption.png';
+import emtocaption from '../src/Assets/emto-caption.png';
 import React from 'react';
 
 
