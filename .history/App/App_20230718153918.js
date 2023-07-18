@@ -1,11 +1,10 @@
 
 import React from 'react';
-import './pages/Login/Login.css';
-import './pages/SignUp/SignUp.css';
+import './App.css';
 import { BrowserRouter as Router, Routes, Route }
     from 'react-router-dom';
-import SignUp from './pages/SignUp/SignUp';
-import Login from './pages/Login/Login';
+import SignUp from '../emto/reactfirst/src/pages/SignUp/SignUp';
+import Login from '../emto/reactfirst/src/pages/Login/Login';
  
 function App() {
     return (

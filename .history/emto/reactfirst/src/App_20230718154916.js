@@ -1,5 +1,6 @@
 
 import React from 'react';
+import './App.css';
 import './pages/Login/Login.css';
 import './pages/SignUp/SignUp.css';
 import { BrowserRouter as Router, Routes, Route }
