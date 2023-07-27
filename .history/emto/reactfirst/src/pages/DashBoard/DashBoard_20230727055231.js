@@ -29,18 +29,16 @@ const DashBoard = () => {
                         <img src={IMAGES.calender} class="calenderIcon" alt="dashboardlogo" /><br></br>
                         <label class="introsub">Track bookings here. You almost reach a goal!</label>
                     </div>
-
-                    <div class="dashboard-top2">
-                        <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
-                        <label class="userLabel">John Peter</label><br></br>
-                        <label class="userLabel2">0123456789</label><br></br>
-                        <label class="userLabel2">0.0</label><br></br>
-                    </div>
                 </div>
 
-
-
                 <div class="dashboard-top2">
+                    <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
+                    <label class="userLabel">John Peter</label><br></br>
+                    <label class="userLabel2">0123456789</label><br></br>
+                    <label class="userLabel2">0.0</label><br></br>
+                </div>
+
+<div class="dashboard-top2">
                     <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
                     <label class="userLabel">John Peter</label><br></br>
                     <label class="userLabel2">0123456789</label><br></br>

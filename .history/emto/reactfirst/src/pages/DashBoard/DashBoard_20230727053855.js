@@ -22,7 +22,6 @@ const DashBoard = () => {
                 </div>
 
                 <div class="dashboard-right">
-
                     <div class="dashboard-top">
                         <label class="intro">Hello, John Peter</label>
                         <label class="Calender">05 June 2023</label>
@@ -39,13 +38,6 @@ const DashBoard = () => {
                 </div>
 
 
-
-                <div class="dashboard-top2">
-                    <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
-                    <label class="userLabel">John Peter</label><br></br>
-                    <label class="userLabel2">0123456789</label><br></br>
-                    <label class="userLabel2">0.0</label><br></br>
-                </div>
             </div>
 
 

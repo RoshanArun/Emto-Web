@@ -111,16 +111,17 @@
   font-size: 1.5vh;
   position: absolute;
   top: 4.5%;
-  left: 75%
+  left: 78.5%
 }
 
 .calenderIcon {
   width: 2.5vh;
-  margin-left: 5vw;
+  margin-left: .5%;
   position: absolute;
   top: 4.25%;
-  left: 75%
+  left: 83.5%
 }
+
 
 .profileIcon {
   width: 6vh;
@@ -132,7 +133,7 @@
   margin-left: 10vh;
   font-size: 2.2vh;
   position: relative;
-  bottom: 7.5vh;
+  bottom: 6vh;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: black;
   display: block;
@@ -143,7 +144,7 @@
   margin-left: 10vh;
   font-size: 1.5vh;
   position: relative;
-  bottom: 7.5vh;
+  bottom: 4vw;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: black;
   display: block;
