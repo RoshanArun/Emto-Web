@@ -83,9 +83,9 @@ const DashBoard = () => {
                     </div>
 
                     <div class="bottom-profile">
-                        <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
+                        {/* <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
                         <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
-                        <label class="bronzelabel">John Peter</label><br></br>
+                        <label class="bronzelabel">John Peter</label><br></br> */}
 
                         {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
                     </div>
@@ -94,4 +94,7 @@ const DashBoard = () => {
         </div>
     );
 }
+
+
+
 export default DashBoard;

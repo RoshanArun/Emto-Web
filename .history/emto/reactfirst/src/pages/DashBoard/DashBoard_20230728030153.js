@@ -7,23 +7,23 @@ const DashBoard = () => {
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <div class="wrapper">
                 <div class="dash">
-                    <div class="top-logo">
+                    <div class="top1">
                         <img src={IMAGES.emtologo} class="dashboardlogo" alt="dashboardlogo" /><br></br>
                     </div>
-                    <div class="top-intro">
+                    <div class="top2">
                         <label class="intro">Hello, John Peter</label>
                         <label class="Calender">05 June 2023</label>
                         <img src={IMAGES.calender} class="calenderIcon" alt="dashboardlogo" /><br></br>
                         <label class="introsub">Track bookings here. You almost reach a goal!</label>
                     </div>
-                    <div class="top-profile">
+                    <div class="top3">
                         <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
                         <label class="userLabel">John Peter</label><br></br>
                         <label class="userLabel2">0123456789</label><br></br>
                         <label class="userLabel2">0.0</label><br></br>
                     </div>
 
-                    <div class="bottom-options">
+                    <div class="bottom1">
                         <img src={IMAGES.dashboard} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Dashboard</label><br></br>
                         <img src={IMAGES.senders} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Senders</label><br></br>
                         <img src={IMAGES.recievers} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Recievers</label><br></br><br></br>
@@ -36,7 +36,7 @@ const DashBoard = () => {
                         <img src={IMAGES.logout} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Logout</label><br></br>
                     </div>
 
-                    <div class="bottom-info">
+                    <div class="bottom2">
                         <div class="box">
                             <img src={IMAGES.booktrips} class="boximage" alt="dashboardlogo" />
                             <label class="boxLabel">0</label><br></br>
@@ -82,16 +82,17 @@ const DashBoard = () => {
                         </div>
                     </div>
 
-                    <div class="bottom-profile">
-                        <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
-                        <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
-                        <label class="bronzelabel">John Peter</label><br></br>
-
-                        {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
+                    <div class="bottom3">
+                        <div class="box">
+                            <label class="more">more...</label><br></br>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     );
 }
+
+
+
 export default DashBoard;

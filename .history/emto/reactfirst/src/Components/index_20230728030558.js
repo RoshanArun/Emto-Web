@@ -23,7 +23,7 @@ const IMAGES = {
     alerts: require('./bell.png'),
     messages: require('./chat-box.png'),
 
-    bronze: require('./bronze-bg.png')
+    bronze: require('./bronze-bg.png'),
 }
 
 export default IMAGES;

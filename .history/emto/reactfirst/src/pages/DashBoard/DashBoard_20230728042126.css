@@ -14,7 +14,7 @@
 }
 
 .top-intro {
-  width: 68vw;
+  width: 69vw;
   height: 10vh;
   outline: 1px solid lightgray;
 }
@@ -38,7 +38,7 @@
 }
 
 .bottom-profile {
-  width: 23vw;
+  width: 24vw;
   height: 90vh;
   outline: 1px solid lightgray;
 }
@@ -219,28 +219,20 @@
 }
 
 .bronze{
-  width: 20vw;
-  height: 25vh;
-  margin-left: 7.5%;
+  width: 25vw;
+  margin-left: 10%;
   margin-top: 10%;
+  display: inline;
 }
 
-.bronzelabel{
+.bronze-label{
   display: block;
-  margin-left: 35%;
-  margin-top: -5vh;
-  color: white;
-  font-size: 1.2vw
+  margin-top: 00px;
 } 
 
 .bronzeicon{
-  display: block;
-  margin-top: -22.5vh;
-  width: 7vh;
-  margin-left: 3.5vw;
-  border-radius: 50px;
-  outline: 2px solid lightgray;
-
+  display: inline;
+  margin-top: -10vh;
 }
 
 .box-banner2{

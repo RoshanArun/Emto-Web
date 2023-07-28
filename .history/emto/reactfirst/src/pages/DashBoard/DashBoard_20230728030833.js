@@ -83,15 +83,14 @@ const DashBoard = () => {
                     </div>
 
                     <div class="bottom-profile">
-                        <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
-                        <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
-                        <label class="bronzelabel">John Peter</label><br></br>
-
-                        {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
+                        <img src={IMAGES.bronze} class="boxbanner" alt="dashboardlogo" />
                     </div>
                 </div>
             </div>
         </div>
     );
 }
+
+
+
 export default DashBoard;
