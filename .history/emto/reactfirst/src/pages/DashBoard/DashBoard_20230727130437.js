@@ -38,40 +38,99 @@ const DashBoard = () => {
                     </div>
 
                     <div class="bottom2">
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
-                        <div class="box">
-
-                        </div>
+                        <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
+                        <label class="userLabel">John Peter</label><br></br>
+                        <label class="userLabel2">0123456789</label><br></br>
+                        <label class="userLabel2">0.0</label><br></br>
                     </div>
 
                     <div class="bottom3">
+                        <img src={IMAGES.profile} class="profileIcon" alt="dashboardlogo" />
+                        <label class="userLabel">John Peter</label><br></br>
+                        <label class="userLabel2">0123456789</label><br></br>
+                        <label class="userLabel2">0.0</label><br></br>
+                    </div>
+
+                </div>
+
+                {/* <div class="dash-bottom">
+                    <div class="bottom1">
+                    <label class="userLabel">John Peter</label><br></br>
+
+                    </div>
+                    <div class="bottom2">
+
+                    </div>
+                    <div class="bottom3">
+
+                    </div>
+                </div> */}
+
+
+                {/* <div class="dashboard-left">
+                    
+                    <img src={IMAGES.dashboard} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Dashboard</label><br></br>
+                    <img src={IMAGES.senders} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Senders</label><br></br>
+                    <img src={IMAGES.recievers} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Recievers</label><br></br><br></br><br></br><br></br><br></br>
+                    <label class="pro">Upgrade to Pro</label>
+                    <label class="unlock">Get 1 Month Free</label>
+                    <label class="unlock2">and Unlock</label><br></br>
+                    <button class="upgrade">Upgrade</button>
+
+                    <img src={IMAGES.settings} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Settings</label><br></br>
+                    <img src={IMAGES.csx} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Help Desk</label><br></br>
+                    <img src={IMAGES.logout} class="dashboardicon" alt="dashboardlogo" /><label class="dashboardlabels">Logout</label><br></br>
+                </div>
+
+                <div class="dashboard-right">
+
+                    <div class="dashboard-top">
                         
                     </div>
-                </div>
+
+                    <div class="right1">
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                        <div class="box">
+
+                        </div>
+                    </div>
+
+
+                    <div class="right2"></div>
+
+                </div> */}
+
+
+
+                {/* <div class="dashboard-top2">
+                    
+                </div> */}
             </div>
+
+
         </div>
     );
 }

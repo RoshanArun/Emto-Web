@@ -70,8 +70,11 @@ const DashBoard = () => {
                     <div class="bottom3">
                         
                     </div>
+
                 </div>
             </div>
+
+
         </div>
     );
 }
