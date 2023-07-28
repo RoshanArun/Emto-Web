@@ -1,0 +1,190 @@
+.dash{
+  height: 100vh;
+  width: 100vw;
+  outline: 1px solid lightgray;
+  min-height: 65px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.top1{
+  width: 15vw;
+  height: 10vh;
+  outline: 1px solid lightgray;
+}
+
+.top2{
+  width: 68.5vw;
+  height: 10vh;
+  outline: 1px solid lightgray;
+}
+
+.top3{
+  width: 15vw;
+  height: 10vh;
+  outline: 1px solid lightgray;
+}
+
+.bottom1{
+  width: 15vw;
+  height: 90vh;
+  outline: 1px solid lightgray;
+}
+
+.bottom2{
+  width: 60vw;
+  height: 90vh;
+  outline: 1px solid lightgray;
+}
+
+.bottom3{
+  width: 23.5vw;
+  height: 90vh;
+  outline: 1px solid lightgray;
+}
+
+.dashboardlogo {
+  width: 15vh;
+  margin-top: 10%;
+  margin-bottom: 15%;
+  margin-left: 15%;
+}
+
+.dashboardicon {
+  margin-top: 12%;
+  margin-left: 15%;
+  width: 13%;
+}
+
+.dashboardlabels {
+  margin-left: 7%;
+  font-size: 1vw;
+  position: relative;
+  bottom: .5vw;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+}
+
+.pro {
+  font-size: 1.0vw;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin-bottom: 5%;
+  margin-top: 15%;
+}
+
+.unlock {
+  display: block;
+  font-size: .8vw;
+  word-wrap: break-word;
+  text-align: center;
+
+}
+
+.unlock2 {
+  font-size: .8vw;
+  text-align: center;
+  display: block;
+
+}
+
+.upgrade {
+  background-color: lightblue;
+  border: none;
+  border-radius: 15px;
+  width: 45%;
+  height: 3.5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  margin-bottom: 10vh;
+  text-align: center;
+  font-size: .9vw;
+  font-weight: bold;
+  align-items: center;
+}
+
+.intro {
+  font-size: 3vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-left: 6vh;
+  margin-top: 2vh;
+  display: inline-block;
+}
+
+.introsub {
+  margin-left: 6vh;
+  font-size: 1.5vh;
+  margin-top: 2px;
+  display: flex;
+}
+
+
+.Calender {
+  margin-left: auto;
+  font-size: 1.5vh;
+  position: absolute;
+  top: 4.5%;
+  left: 75%
+}
+
+.calenderIcon {
+  width: 2.5vh;
+  margin-left: 5vw;
+  position: absolute;
+  top: 4.25%;
+  left: 75%
+}
+
+.profileIcon {
+  width: 6vh;
+  margin-left: 10%;
+  margin-top: 2.5vh;
+}
+
+.userLabel {
+  margin-left: 10vh;
+  font-size: 2.2vh;
+  position: relative;
+  bottom: 7.5vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+  display: block;
+  margin-bottom: -17.5px
+}
+
+.userLabel2 {
+  margin-left: 10vh;
+  font-size: 1.5vh;
+  position: relative;
+  bottom: 7.5vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+  display: block;
+  margin-bottom: -17.5px
+}
+
+.box{
+  margin-top: 5vh;
+  height: 6vh;
+  width: 12.5vw;
+  outline: 1px solid lightgray;
+  display: inline-flex;
+  flex-direction: column;
+  margin-bottom: none;
+  padding: 0;
+}
+
+.boximage{
+  width: 30%;
+  height: 130%;
+  margin-left: 25%;
+}
+
+.boximage2{
+  width: 20%;
+  height: 10%;
+ 
+margin:none;
+}
