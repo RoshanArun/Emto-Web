@@ -236,8 +236,9 @@
 
 .bronze{
   width: 20vw;
-  height: 25vh;
+  height: 5vh;
   margin-top: 5vh;
+  outline: 1px solid lightgray;
   display: inline-block;
   vertical-align: top;
   background-color: white;

@@ -237,27 +237,24 @@
 .bronze{
   width: 20vw;
   height: 25vh;
-  margin-top: 5vh;
-  display: inline-block;
-  vertical-align: top;
-  background-color: white;
-  border-radius: 25px;
   margin-left: 7.5%;
-  min-width: 130px;
-  min-height: 150px;
+  margin-top: 10%;
+  min-height: 10px;
+
 }
 
 .bronzelabel{
   display: block;
   margin-left: 32.5%;
-  margin-top: -30px;
+  margin-top: -4.5vh;
   color: white;
   font-size: 1.2vw
 } 
 
 .bronzeicon{
   display: block;
-  margin-top: -22.5vh;
+  position: relative;
+  margin-top: -135px;
   width: 6vh;
   margin-left: 3.5vw;
   border-radius: 50px;
@@ -266,11 +263,8 @@
 }
 
 .box-banner2{
-  width: 20vw;
+  width: 35vh;
   height: 35vh;
-  margin-left: 7.5%;
-  margin-top: 1;
-  min-width: 200px;
-  min-height: 200px;
+  margin-left: 2vw;
+  margin-top: 17.5vh;
 }
-

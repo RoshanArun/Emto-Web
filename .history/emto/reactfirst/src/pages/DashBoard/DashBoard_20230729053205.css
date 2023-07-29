@@ -237,13 +237,8 @@
 .bronze{
   width: 20vw;
   height: 25vh;
-  margin-top: 5vh;
-  display: inline-block;
-  vertical-align: top;
-  background-color: white;
-  border-radius: 25px;
   margin-left: 7.5%;
-  min-width: 130px;
+  margin-top: 10%;
   min-height: 150px;
 }
 
@@ -267,7 +262,7 @@
 
 .box-banner2{
   width: 20vw;
-  height: 35vh;
+  height: 3vh;
   margin-left: 7.5%;
   margin-top: 1;
   min-width: 200px;

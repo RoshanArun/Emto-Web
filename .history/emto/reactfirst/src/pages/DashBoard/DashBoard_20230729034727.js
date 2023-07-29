@@ -87,7 +87,7 @@ const DashBoard = () => {
                         <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
                         <label class="bronzelabel">Xuvi Bronze</label><br></br>
 
-                        {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
+                        <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" />
                     </div>
                 </div>
             </div>

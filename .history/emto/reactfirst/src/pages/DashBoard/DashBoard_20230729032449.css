@@ -30,7 +30,7 @@
   outline: 1px solid lightgray;
   min-width: 100px;
   min-height: 55px;;
-  min-width: 165px;;
+  min-width: 170px;;
 }
 
 .bottom-options {
@@ -52,14 +52,15 @@
   width: 23vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-width: 250px;
+  min-width: 253.5px;
 }
 
 
 .dashboardlogo {
   width: 17.5vh;
   margin-top: 3vh;
-  margin-left: 2.5vw;
+  margin-bottom: 15%;
+  margin-left: 15%;
   min-width: 100px;
 }
 
@@ -68,6 +69,7 @@
   margin-left: 15%;
   width: 13%;
   min-width: 20px;
+
 }
 
 .dashboardlabels {
@@ -136,29 +138,29 @@
 
 
 .Calender {
-  position: relative;
-  left: 45vw;
-  top: 1vh;
+  margin-left: auto;
   font-size: 1.5vh;
+  position: absolute;
+  top: 4.5%;
+  left: 75%
 }
 
 .calenderIcon {
   width: 2.5vh;
-  position: relative;
-  left: 45.25vw;
-  top: 1.5vh;
-  font-size: 1.5vh;
+  margin-left: 5vw;
+  position: absolute;
+  top: 4.25%;
+  left: 75%
 }
 
 .profileIcon {
-  width: 7vh;
+  width: 6vh;
   margin-left: 10%;
-  margin-top: 2vh;
-  min-width: 40px
+  margin-top: 2.5vh;
 }
 
 .userLabel {
-  margin-left: 6vw;
+  margin-left: 10vh;
   font-size: 2.2vh;
   position: relative;
   bottom: 7.5vh;
@@ -169,7 +171,7 @@
 }
 
 .userLabel2 {
-  margin-left: 6vw;
+  margin-left: 10vh;
   font-size: 1.5vh;
   position: relative;
   bottom: 7.5vh;
@@ -192,9 +194,6 @@
   padding-left: 5%;
   padding-top: 2%;
   padding-bottom: 10%;
-  min-width: 130px;
-  min-height: 40px;
-
 }
 
 .boximage {
@@ -237,20 +236,14 @@
 .bronze{
   width: 20vw;
   height: 25vh;
-  margin-top: 5vh;
-  display: inline-block;
-  vertical-align: top;
-  background-color: white;
-  border-radius: 25px;
   margin-left: 7.5%;
-  min-width: 130px;
-  min-height: 150px;
+  margin-top: 10%;
 }
 
 .bronzelabel{
   display: block;
-  margin-left: 32.5%;
-  margin-top: -30px;
+  margin-left: 35%;
+  margin-top: -5vh;
   color: white;
   font-size: 1.2vw
 } 
@@ -258,19 +251,16 @@
 .bronzeicon{
   display: block;
   margin-top: -22.5vh;
-  width: 6vh;
+  width: 7vh;
   margin-left: 3.5vw;
   border-radius: 50px;
   outline: 2px solid lightgray;
-  min-width: 30px;
+
 }
 
 .box-banner2{
-  width: 20vw;
+  width: 35vh;
   height: 35vh;
-  margin-left: 7.5%;
-  margin-top: 1;
-  min-width: 200px;
-  min-height: 200px;
+  margin-left: 10%;
+  margin-top: 10%;
 }
-

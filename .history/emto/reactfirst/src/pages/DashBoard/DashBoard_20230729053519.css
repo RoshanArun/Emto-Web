@@ -236,15 +236,18 @@
 
 .bronze{
   width: 20vw;
-  height: 25vh;
+  height: 6vh;
+  min-height: 150px;
   margin-top: 5vh;
+  outline: 1px solid lightgray;
   display: inline-block;
   vertical-align: top;
   background-color: white;
   border-radius: 25px;
-  margin-left: 7.5%;
+  margin-left: 5%;
+  
   min-width: 130px;
-  min-height: 150px;
+  min-height: 40px;
 }
 
 .bronzelabel{

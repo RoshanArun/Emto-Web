@@ -236,14 +236,9 @@
 
 .bronze{
   width: 20vw;
-  height: 25vh;
-  margin-top: 5vh;
-  display: inline-block;
-  vertical-align: top;
-  background-color: white;
-  border-radius: 25px;
+  height: 2vh;
   margin-left: 7.5%;
-  min-width: 130px;
+  margin-top: 10%;
   min-height: 150px;
 }
 

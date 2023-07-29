@@ -30,7 +30,7 @@
   outline: 1px solid lightgray;
   min-width: 100px;
   min-height: 55px;;
-  min-width: 165px;;
+  min-width: 170px;;
 }
 
 .bottom-options {
@@ -52,7 +52,7 @@
   width: 23vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-width: 250px;
+  min-width: 253.5px;
 }
 
 
@@ -237,20 +237,14 @@
 .bronze{
   width: 20vw;
   height: 25vh;
-  margin-top: 5vh;
-  display: inline-block;
-  vertical-align: top;
-  background-color: white;
-  border-radius: 25px;
   margin-left: 7.5%;
-  min-width: 130px;
-  min-height: 150px;
+  margin-top: 10%;
 }
 
 .bronzelabel{
   display: block;
-  margin-left: 32.5%;
-  margin-top: -30px;
+  margin-left: 30%;
+  margin-top: -4.5vh;
   color: white;
   font-size: 1.2vw
 } 
@@ -262,15 +256,13 @@
   margin-left: 3.5vw;
   border-radius: 50px;
   outline: 2px solid lightgray;
-  min-width: 30px;
+  min-width: 30px
+
 }
 
 .box-banner2{
-  width: 20vw;
+  width: 35vh;
   height: 35vh;
-  margin-left: 7.5%;
-  margin-top: 1;
-  min-width: 200px;
-  min-height: 200px;
+  margin-left: 10%;
+  margin-top: 10%;
 }
-
