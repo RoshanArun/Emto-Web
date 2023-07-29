@@ -250,14 +250,12 @@
 } 
 
 .bronzeicon{
-  width: 6vh;
-  height: 6vh;
+  width: 10vh;
+  height: 10vh;
   margin-left: -90%;
   margin-top: 10%;
   outline: 2px solid white;
   border-radius: 205px;
-  min-width: 35px;
-  min-height: 35px;
 }
 
 .box2{

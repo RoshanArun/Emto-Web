@@ -83,12 +83,10 @@ const DashBoard = () => {
                     </div>
 
                     <div class="bottom-profile">
-                        <div class='box2'>
-                            <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
-                            <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
-                            <label class="bronzelabel">Xuvi Bronze</label><br></br>
-                        </div>
-
+                        <div class='box2'></div>
+                        <img src={IMAGES.bronze} class="bronze" alt="dashboardlogo" />
+                        <img src={IMAGES.profile} class="bronzeicon" alt="dashboardlogo" />
+                        <label class="bronzelabel">Xuvi Bronze</label><br></br>
 
                         {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
                     </div>

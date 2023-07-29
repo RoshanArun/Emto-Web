@@ -90,7 +90,7 @@ const DashBoard = () => {
                         </div>
 
 
-                        {/* <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" /> */}
+                        <img src={IMAGES.bronze} class="box-banner2" alt="dashboardlogo" />
                     </div>
                 </div>
             </div>
