@@ -258,10 +258,7 @@
 }
 
 .maps{
-  margin-top: 10%;
-  width: 20vw;
-  height: 35vh;
-  border-radius: 30px;
-  outline: none;
-  border: none;
+  width: 10vw;
+  height: 50vh;
+    
 }
