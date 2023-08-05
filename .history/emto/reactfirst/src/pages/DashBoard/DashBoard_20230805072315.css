@@ -43,9 +43,8 @@
 
 .bottom-info {
   width: 60vw;
-  height: 90vh;
+  height: 100vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 

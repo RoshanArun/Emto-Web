@@ -45,7 +45,6 @@
   width: 60vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 
@@ -268,7 +267,7 @@
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 800px) {
   .dashboardlabels {
     font-size: 12px;
   }
@@ -277,15 +276,15 @@
   }
 
   .pro {
-    font-size: 11px;
+    font-size: 12px;
   }
   
   .unlock {
-    font-size: 9px;
+    font-size: 10px;
   }
   
   .unlock2 {
-    font-size: 9px;
+    font-size: 10px;
   }
   
   .upgrade {

@@ -12,7 +12,6 @@
   height: 10vh;
   outline: 1px solid lightgray;
   min-height: 55px;;
-  min-width: 150px;;
 }
 
 .top-intro {
@@ -45,7 +44,6 @@
   width: 60vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 
@@ -291,4 +289,6 @@
   .upgrade {
     font-size: 10px;
   }
+
+
 }

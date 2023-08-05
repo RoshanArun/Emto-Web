@@ -21,7 +21,7 @@
   outline: 1px solid lightgray;
   min-width: 450px;
   min-height: 55px;;
-  min-width: 680px;;
+  min-width: 600px;;
 }
 
 .top-profile {
@@ -45,7 +45,6 @@
   width: 60vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 
@@ -291,4 +290,6 @@
   .upgrade {
     font-size: 10px;
   }
+
+
 }

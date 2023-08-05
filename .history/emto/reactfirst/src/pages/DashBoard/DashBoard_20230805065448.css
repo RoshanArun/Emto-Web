@@ -45,7 +45,6 @@
   width: 60vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 
@@ -268,27 +267,13 @@
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 800px) {
   .dashboardlabels {
+    margin-left: 7%;
     font-size: 12px;
-  }
-  .boxlabel2 {
-    font-size: 12px;
-  }
-
-  .pro {
-    font-size: 11px;
-  }
-  
-  .unlock {
-    font-size: 9px;
-  }
-  
-  .unlock2 {
-    font-size: 9px;
-  }
-  
-  .upgrade {
-    font-size: 10px;
+    position: relative;
+    bottom: .5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
   }
 }

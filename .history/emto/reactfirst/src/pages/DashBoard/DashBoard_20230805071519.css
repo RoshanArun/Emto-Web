@@ -3,8 +3,7 @@
   width: 100vw;
   outline: 1px solid lightgray;
   min-width: 1025px;;
-  display: flex;
-  flex-wrap: wrap;
+
 }
 
 .top-logo {
@@ -19,7 +18,6 @@
   width: 68vw;
   height: 10vh;
   outline: 1px solid lightgray;
-  min-width: 450px;
   min-height: 55px;;
   min-width: 680px;;
 }
@@ -45,7 +43,6 @@
   width: 60vw;
   height: 90vh;
   outline: 1px solid lightgray;
-  min-height: 450px;
   min-width: 600px;;
 }
 
@@ -291,4 +288,6 @@
   .upgrade {
     font-size: 10px;
   }
+
+
 }
