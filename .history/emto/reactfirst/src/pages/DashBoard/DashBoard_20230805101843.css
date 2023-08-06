@@ -182,7 +182,7 @@
 
 .box {
   margin-top: 5vh;
-  height: 5vh;
+  height: 70px;
   width: 12.5vw;
   outline: 1px solid lightgray;
   display: inline-block;

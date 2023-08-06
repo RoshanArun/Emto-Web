@@ -7,9 +7,9 @@
 
 .page-left {
   width: 60vh;
+  min-width: 370px;
   height: 100vh;
   min-height: 570px;
-  min-width: 300px;
   background-color: #f5f5f5;
 }
 

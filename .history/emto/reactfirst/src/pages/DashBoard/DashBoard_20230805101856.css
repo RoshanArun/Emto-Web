@@ -182,8 +182,8 @@
 
 .box {
   margin-top: 5vh;
-  height: 5vh;
-  width: 12.5vw;
+  height: 50px;
+  width: 130px;
   outline: 1px solid lightgray;
   display: inline-block;
   vertical-align: top;
